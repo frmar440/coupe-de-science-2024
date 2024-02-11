@@ -3,4 +3,5 @@ matplotlib
 notebook
 pandas
 pyarrow
+scipy
 xlrd
